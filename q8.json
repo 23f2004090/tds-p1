@@ -1,0 +1,6 @@
+{
+  "prompt": "A grand formal garden viewed from above. The garden is divided into three distinct sections by hedgerows — in each section, the flower beds slope clearly upward left to right, a visible rising gradient. But when you step back and see the whole garden together, the overwhelming visual direction reverses — the entire landscape unmistakably slopes downward left to right. The contradiction is spatial and immediate. Photorealistic, golden afternoon light, aerial perspective, no text, no labels, no charts.",
+  "model": "DALL-E 3",
+  "paradox": "Simpson's Paradox",
+  "visual_logic": "Each garden section shows a clear upward slope, but the combined whole reverses direction — mirroring how a trend visible in every subgroup disappears or inverts when data is aggregated."
+}
