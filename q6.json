@@ -1,0 +1,6 @@
+{
+  "prompt": "A master tailor in a dimly lit workshop, obsessively fitting an ornate elaborate suit onto a single wooden mannequin. The suit has hundreds of tiny custom darts, patches and seams conforming perfectly to every curve of that one mannequin. Behind the tailor, a long queue of real diverse people wait — but it is visually obvious the over-customised suit would fit none of them. Photorealistic, cinematic lighting, shallow depth of field, no text, no labels, no diagrams.",
+  "model": "DALL-E 3",
+  "concept": "overfitting",
+  "metaphor": "A suit tailored to fit one mannequin perfectly cannot fit any real person — the tailor optimized for one training example, losing all ability to generalize."
+}
